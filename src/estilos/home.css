@@ -1,0 +1,44 @@
+/*iniicio home*/
+
+.homeimg img{
+    max-width: 100%;
+}
+
+.columnas {
+    display: flex;
+}
+
+.bievenidos {
+    width: 75%;
+    padding-right: 20px;
+}
+
+.testimonios {
+    width: 25%;
+}
+
+.bievenidos p{
+    font-size: 20%;
+}
+
+.testimonio {
+    background-color: #ccc;
+    padding: 16%;
+}
+
+.testimonio .cita {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 22px;
+    display: block;
+}
+
+.testimonio .autor{
+    font-size: 12px;
+    display: block;
+    background-color: lightcoral;
+    text-align: center;
+    margin: 16px 0;
+}
+
+/*fin home*/
